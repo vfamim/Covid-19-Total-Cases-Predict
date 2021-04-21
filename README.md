@@ -1,10 +1,28 @@
+# TABLE OF CONTENT
+- [1.0. OVERVIEW](#10-overview)
+- [2.0. INTRODUCTION](#20-introduction)
+- [3.0. THE DATASET](#30-the-dataset)
+  * [3.1.  Data source](#31--data-source)
+  * [3.2. Columns Description](#32-columns-description)
+  * [4.0. EXPLORATORY DATA ANALYSIS (EDA)](#40-exploratory-data-analysis--eda-)
+  * [4.1. Univariate Analysis](#41-univariate-analysis)
+    + [4.1.1. Target variable](#411-target-variable)
+    + [4.1.2. Numerical variables distribution](#412-numerical-variables-distribution)
+    + [4.1.3. Categorical variable](#413-categorical-variable)
+  * [4.2. Bivariate Analysis](#42-bivariate-analysis)
+  * [4.3. Multivariate Analysis](#43-multivariate-analysis)
+    + [4.3.1. Numerical](#431-numerical)
+    + [4.3.2. Categorical](#432-categorical)
+- [5.0. FULL PROJECT DEVELOPMENT](#50-full-project-development)
+- [6.0. MODEL SELECTION](#60-model-selection)
+  * [6.1. Hyper parameter Fine Tuning](#61-hyper-parameter-fine-tuning)
+  * [6.2. Final model Performance](#62-final-model-performance)
+
 # 1.0. OVERVIEW
 
 * Brief introduction about corona virus
 * Explain about dataset
 * Demonstrate model results
-
-
 
 # 2.0. INTRODUCTION
 
