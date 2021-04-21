@@ -104,7 +104,7 @@ Our *dataset* is provided by https://ourworldindata.org/covid-cases, if you want
 | life_expectancy                       | James C. Riley, Clio Infra, United Nations Population Division | Life expectancy at birth in 2019                             |
 | human_development_index               | United Nations Development Programme (UNDP)                  | A composite index measuring average achievement in three basic dimensions of human development—a long and healthy life, knowledge and a decent standard of living. Values for 2019, imported from http://hdr.undp.org/en/indicators/137506 |
 
-## 4.0. EXPLORATORY DATA ANALYSIS (EDA)
+# 4.0. EXPLORATORY DATA ANALYSIS (EDA)
 
 Performing initial investigations on data to discover patterns, spot anomalies and test hypothesis.
 
