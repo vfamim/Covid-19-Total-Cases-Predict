@@ -1,4 +1,3 @@
-# TABLE OF CONTENT
 - [1.0. OVERVIEW](#10-overview)
 - [2.0. INTRODUCTION](#20-introduction)
 - [3.0. THE DATASET](#30-the-dataset)
@@ -17,6 +16,8 @@
 - [6.0. MODEL SELECTION](#60-model-selection)
   * [6.1. Hyper parameter Fine Tuning](#61-hyper-parameter-fine-tuning)
   * [6.2. Final model Performance](#62-final-model-performance)
+- [7.0. EXPLAINING RESULTS](#70-explaining-results)
+- [8.0. EXTRA IMPLEMENTATION SUGGESTIONS](#80-extra-implementation-suggestions)
 
 # 1.0. OVERVIEW
 
