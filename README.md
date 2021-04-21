@@ -4,7 +4,7 @@
 - [3.0. THE DATASET](#30-the-dataset)
   * [3.1.  Data source](#31--data-source)
   * [3.2. Columns Description](#32-columns-description)
-  * [4.0. EXPLORATORY DATA ANALYSIS (EDA)](#40-exploratory-data-analysis--eda-)
+- [4.0. EXPLORATORY DATA ANALYSIS (EDA)](#40-exploratory-data-analysis--eda-)
   * [4.1. Univariate Analysis](#41-univariate-analysis)
     + [4.1.1. Target variable](#411-target-variable)
     + [4.1.2. Numerical variables distribution](#412-numerical-variables-distribution)
