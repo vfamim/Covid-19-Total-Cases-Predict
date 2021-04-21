@@ -17,6 +17,11 @@
 - [6.0. MODEL SELECTION](#60-model-selection)
   * [6.1. Hyper parameter Fine Tuning](#61-hyper-parameter-fine-tuning)
   * [6.2. Final model Performance](#62-final-model-performance)
+  * [Observing the results](#observing-the-results)
+      - [1. Prediction x Target Variable](#1-prediction-x-target-variable)
+      - [2. Error Rate](#2-error-rate)
+      - [3. Error Distribution](#3-error-distribution)
+      - [4. Predictions x Error](#4-predictions-x-error)
 - [7.0. EXPLAINING RESULTS](#70-explaining-results)
 - [8.0. EXTRA IMPLEMENTATION SUGGESTIONS](#80-extra-implementation-suggestions)
 
