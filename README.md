@@ -302,3 +302,7 @@ In order to get a better accuracy, there are some points that I'd like to sugges
 * Experiment other machine learning algorithms to improve performance;
 * Experiment another hyper-parameter fine-tuning;
 * Deploy the results with streamlit;
+
+ ``` plantuml
+Bob -> Alice : hello
+```
