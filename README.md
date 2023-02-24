@@ -303,6 +303,6 @@ In order to get a better accuracy, there are some points that I'd like to sugges
 * Experiment another hyper-parameter fine-tuning;
 * Deploy the results with streamlit;
 
- ``` plantuml
-Bob -> Alice : hello
-```
+@startuml
+bob -> Alice> hello
+@enduml
